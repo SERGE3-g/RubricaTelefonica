@@ -17,7 +17,6 @@ Il programma permette di:
 - Visualizzare i contatti che iniziano con una determinata stringa
 - Visualizzare i contatti che terminano con una determinata stringa
 
-Il programma è stato realizzato con l'ausilio di NetBeans.
 
 Per poter utilizzare il programma è necessario:
 
