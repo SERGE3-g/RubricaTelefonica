@@ -27,8 +27,7 @@ Per poter utilizzare il programma è necessario:
   - nome (varchar(50))
   - cognome (varchar(50))
   - numero (varchar(50))
-  - email (varchar(50))
-  - indirizzo (varchar(50))
+ 
   
     Il programma è stato realizzato da me per un progetto .
 
